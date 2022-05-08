@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JzIeFlkmcQa8cDXBU18dGgTumPvCriR3vQTDtFedI4lu/6ybu0qhlvz+e8Rr4ys3DdyocyL/ig+5uZFRmnzKUQ==",
+  "success": true,
+  "projectFilePath": "F:\\BounceBall\\BounceBall\\BounceBall.Logic\\BounceBall.Logic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sargam\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

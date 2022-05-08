@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BounceBall.Data</name>
+    </assembly>
+    <members>
+        <member name="T:BounceBall.Data.BallModel">
+            <summary>
+            This class have the elements and methods needed for the game.
+            </summary>
+        </member>
+        <member name="M:BounceBall.Data.BallModel.#ctor(System.Double,System.Double)">
+            <summary>
+            Initializes a new instance of the <see cref="T:BounceBall.Data.BallModel"/> class.
+            </summary>
+            <param name="w">width.</param>
+            <param name="h">height.</param>
+        </member>
+        <member name="P:BounceBall.Data.BallModel.Lives">
+            <summary>
+            Gets or Sets Lives.
+            </summary>
+        </member>
+        <member name="P:BounceBall.Data.BallModel.Walls">
+            <summary>
+            Gets or Sets Walls.
+            </summary>
+        </member>
+        <member name="P:BounceBall.Data.BallModel.Ball">
+            <summary>
+            Gets or Sets Ball.
+            </summary>
+        </member>
+        <member name="P:BounceBall.Data.BallModel.Lifes">
+            <summary>
+            Gets or sets lifes.
+            </summary>
+        </member>
+        <member name="P:BounceBall.Data.BallModel.Exit">
+            <summary>
+            Gets or Sets Exit.
+            </summary>
+        </member>
+        <member name="P:BounceBall.Data.BallModel.Ring">
+            <summary>
+            Gets or Sets RIng.
+            </summary>
+        </member>
+        <member name="P:BounceBall.Data.BallModel.Bars">
+            <summary>
+            Gets or Sets Bars.
+            </summary>
+        </member>
+        <member name="P:BounceBall.Data.BallModel.Checkpoint">
+            <summary>
+            Gets or Sets Checkpoint.
+            </summary>
+        </member>
+        <member name="P:BounceBall.Data.BallModel.Spiders">
+            <summary>
+            Gets or Sets Spiders.
+            </summary>
+        </member>
+        <member name="P:BounceBall.Data.BallModel.GameWidth">
+            <summary>
+            Gets or Sets GameWidth.
+            </summary>
+        </member>
+        <member name="P:BounceBall.Data.BallModel.GameHeight">
+            <summary>
+            Gets or Sets GameHeight.
+            </summary>
+        </member>
+        <member name="P:BounceBall.Data.BallModel.TileSize">
+            <summary>
+            Gets or Sets Lives.
+            </summary>
+        </member>
+        <member name="P:BounceBall.Data.BallModel.Score">
+            <summary>
+            Gets or Sets Lives.
+            </summary>
+        </member>
+        <member name="M:BounceBall.Data.BallModel.MoveY(System.Windows.Point,System.Int32)">
+            <inheritdoc/>
+        </member>
+        <member name="T:BounceBall.Data.IGameModel">
+            <summary>
+            Interface for ball methods.
+            </summary>
+        </member>
+        <member name="M:BounceBall.Data.IGameModel.MoveY(System.Windows.Point,System.Int32)">
+            <summary>
+            Moving the ball up.
+            </summary>
+            <param name="item">Point.</param>
+            <param name="dx">change in position.</param>
+        </member>
+        <member name="T:BounceBall.Data.Score">
+            <summary>
+            This class stores the values for Score.
+            </summary>
+        </member>
+        <member name="M:BounceBall.Data.Score.#ctor(System.Int32,System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:BounceBall.Data.Score"/> class.
+            </summary>
+            <param name="points">GameScore.</param>
+            <param name="name">Player Name.</param>
+        </member>
+        <member name="P:BounceBall.Data.Score.Points">
+            <summary>
+            Gets or sets game score.
+            </summary>
+        </member>
+        <member name="P:BounceBall.Data.Score.Name">
+            <summary>
+            Gets or sets Player Name.
+            </summary>
+        </member>
+        <member name="M:BounceBall.Data.Score.ToString">
+            <inheritdoc/>
+        </member>
+        <member name="T:BounceBall.Data.Spiders">
+            <summary>
+            This class keep track of spider position and direction of moving.
+            </summary>
+        </member>
+        <member name="P:BounceBall.Data.Spiders.Position">
+            <summary>
+            Gets or sets position of spider.
+            </summary>
+        </member>
+        <member name="P:BounceBall.Data.Spiders.IsMovingUp">
+            <summary>
+            Gets or sets a value indicating whether spider is moving up.
+            </summary>
+        </member>
+    </members>
+</doc>

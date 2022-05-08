@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BounceBall.Logic</name>
+    </assembly>
+    <members>
+        <member name="T:BounceBall.Logic.BallLogic">
+            <summary>
+            This class implements the method of gameLogic interface.
+            </summary>
+        </member>
+        <member name="F:BounceBall.Logic.BallLogic.IsFalling">
+            <summary>
+            This keeps track of whether ball is falling or not.
+            </summary>
+        </member>
+        <member name="F:BounceBall.Logic.BallLogic.IsJumping">
+            <summary>
+            This keeps track of whether ball is in jumping state.
+            </summary>
+        </member>
+        <member name="M:BounceBall.Logic.BallLogic.#ctor(BounceBall.Data.BallModel,System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:BounceBall.Logic.BallLogic"/> class.
+            </summary>
+            <param name="model">Ball Model.</param>
+            <param name="fname">String file.</param>
+        </member>
+        <member name="E:BounceBall.Logic.BallLogic.RefreshScreen">
+            <summary>
+            This event invoke the method to refresh screen.
+            </summary>
+        </member>
+        <member name="M:BounceBall.Logic.BallLogic.GamePaused(System.Windows.Threading.DispatcherTimer)">
+            <summary>
+            This method will pause the game.
+            </summary>
+            <param name="timer">Dispatcher timer.</param>
+        </member>
+        <member name="M:BounceBall.Logic.BallLogic.Move(System.Int32,System.Int32)">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Logic.BallLogic.CalculateScore(System.TimeSpan,System.TimeSpan)">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Logic.BallLogic.RingFound(System.Double,System.Double)">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Logic.BallLogic.BarFound(System.Double,System.Double)">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Logic.BallLogic.SpiderFound(System.Double,System.Double)">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Logic.BallLogic.ReachedCheckpoint(System.Double,System.Double)">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Logic.BallLogic.MoveToCheckpoint">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Logic.BallLogic.MoveSpider">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Logic.BallLogic.IsGameOver">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Logic.BallLogic.Jump">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Logic.BallLogic.ExtraLive(System.Double,System.Double)">
+            <inheritdoc/>
+        </member>
+        <member name="T:BounceBall.Logic.IGameLogic">
+            <summary>
+            This interface have all the methods needed for the game.
+            </summary>
+        </member>
+        <member name="M:BounceBall.Logic.IGameLogic.Move(System.Int32,System.Int32)">
+            <summary>
+            Move the ball as the parameter are given.
+            </summary>
+            <param name="dx">movement on x axis.</param>
+            <param name="dy">movement o y axis.</param>
+            <returns>Boolean.</returns>
+        </member>
+        <member name="M:BounceBall.Logic.IGameLogic.CalculateScore(System.TimeSpan,System.TimeSpan)">
+            <summary>
+            This method calculate the score.
+            </summary>
+            <param name="timeSpan">Time by user.</param>
+            <param name="maxTime">Max time defined.</param>
+            <returns>returns the total score.</returns>
+        </member>
+        <member name="M:BounceBall.Logic.IGameLogic.RingFound(System.Double,System.Double)">
+            <summary>
+            This method checks if the ring is there on current position.
+            </summary>
+            <param name="x">ball position on X axis.</param>
+            <param name="y">ball position on y axis.</param>
+            <returns>Bool value.</returns>
+        </member>
+        <member name="M:BounceBall.Logic.IGameLogic.BarFound(System.Double,System.Double)">
+            <summary>
+            This method checks if the Bar is there on current position.
+            </summary>
+            <param name="x">ball position on X axis.</param>
+            <param name="y">ball position on y axis.</param>
+            <returns>Bool value.</returns>
+        </member>
+        <member name="M:BounceBall.Logic.IGameLogic.SpiderFound(System.Double,System.Double)">
+            <summary>
+            This method checks if the spider is there on current position.
+            </summary>
+            <param name="x">ball position on X axis.</param>
+            <param name="y">ball position on y axis.</param>
+            <returns>Bool value.</returns>
+        </member>
+        <member name="M:BounceBall.Logic.IGameLogic.ReachedCheckpoint(System.Double,System.Double)">
+            <summary>
+            This method checks if the checkpoint is there on current position.
+            </summary>
+            <param name="x">ball position on X axis.</param>
+            <param name="y">ball position on y axis.</param>
+            <returns>Bool value.</returns>
+        </member>
+        <member name="M:BounceBall.Logic.IGameLogic.MoveToCheckpoint">
+            <summary>
+            This method move the ball to checkpoint if it busts.
+            </summary>
+        </member>
+        <member name="M:BounceBall.Logic.IGameLogic.MoveSpider">
+            <summary>
+            This method moves the spider in vertically direction.
+            </summary>
+        </member>
+        <member name="M:BounceBall.Logic.IGameLogic.IsGameOver">
+            <summary>
+            This method returns whether game is over.
+            </summary>
+            <returns>Bool Value.</returns>
+        </member>
+        <member name="M:BounceBall.Logic.IGameLogic.Jump">
+            <summary>
+            This method is used to make the ball jump.
+            </summary>
+        </member>
+        <member name="M:BounceBall.Logic.IGameLogic.ExtraLive(System.Double,System.Double)">
+            <summary>
+            This method adds one give one more life to player.
+            </summary>
+            <param name="x">x axis.</param>
+            <param name="y">y axis.</param>
+            <returns>Bool value.</returns>
+        </member>
+        <member name="T:BounceBall.Logic.IScoreLogic">
+            <summary>
+            This interface have methods related to saving the scores and accessing them.
+            </summary>
+        </member>
+        <member name="M:BounceBall.Logic.IScoreLogic.IsThisAHighScore(System.Int32)">
+            <summary>
+            This method checks if the current score is top 3 highscore.
+            </summary>
+            <param name="points">points.</param>
+            <returns>bool.</returns>
+        </member>
+        <member name="M:BounceBall.Logic.IScoreLogic.SaveScore(System.Int32,System.String)">
+            <summary>
+            This method save the scores in the data file.
+            </summary>
+            <param name="points">points.</param>
+            <param name="name">Name.</param>
+        </member>
+        <member name="M:BounceBall.Logic.IScoreLogic.GetScores">
+            <summary>
+            This method gives the list of score in the datafile.
+            </summary>
+            <returns>IList.</returns>
+        </member>
+        <member name="T:BounceBall.Logic.ScoreLogic">
+            <summary>
+            This class implements method of IScoreLogic.
+            </summary>
+        </member>
+        <member name="M:BounceBall.Logic.ScoreLogic.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:BounceBall.Logic.ScoreLogic"/> class.
+            </summary>
+        </member>
+        <member name="M:BounceBall.Logic.ScoreLogic.IsThisAHighScore(System.Int32)">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Logic.ScoreLogic.SaveScore(System.Int32,System.String)">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Logic.ScoreLogic.GetScores">
+            <inheritdoc/>
+        </member>
+    </members>
+</doc>

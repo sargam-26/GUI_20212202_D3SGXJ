@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <EnableNETAnalyzers>true</EnableNETAnalyzers>
+    <AnalysisMode>AllEnabledByDefault</AnalysisMode>
+    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>BounceBall.Logic.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="levels\level1.lvl" />
+    <None Remove="levels\level2.lvl" />
+    <None Remove="levels\testlevel.lvl" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="levels\level1.lvl" />
+    <EmbeddedResource Include="levels\level2.lvl" />
+    <EmbeddedResource Include="levels\testlevel.lvl" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.WindowsDesktop.App" />
+    <PackageReference Include="StyleCop.Analyzers" Version="1.1.118">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BounceBall.Data\BounceBall.Data.csproj" />
+    <ProjectReference Include="..\BounceBall.Repository\BounceBall.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

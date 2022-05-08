@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BounceBall.Repository</name>
+    </assembly>
+    <members>
+        <member name="T:BounceBall.Repository.IStorageRepository">
+            <summary>
+            Interface for storage repo.
+            </summary>
+        </member>
+        <member name="M:BounceBall.Repository.IStorageRepository.ScoreBoard">
+            <summary>
+            This method returns the list of Scores in the data file.
+            </summary>
+            <returns>List of Score.</returns>
+        </member>
+        <member name="M:BounceBall.Repository.IStorageRepository.SaveScore(BounceBall.Data.Score)">
+            <summary>
+            This method the save the score in the data file.
+            </summary>
+            <param name="score">Score.</param>
+        </member>
+        <member name="M:BounceBall.Repository.IStorageRepository.CheckHighScore(System.Int32)">
+            <summary>
+            This method checks if the current score is a highScore.
+            </summary>
+            <param name="points">points.</param>
+            <returns>Boolean.</returns>
+        </member>
+        <member name="T:BounceBall.Repository.StorageRepo">
+            <summary>
+            This class stores method related to storing score.
+            </summary>
+        </member>
+        <member name="M:BounceBall.Repository.StorageRepo.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:BounceBall.Repository.StorageRepo"/> class.
+            </summary>
+        </member>
+        <member name="M:BounceBall.Repository.StorageRepo.CheckHighScore(System.Int32)">
+            <summary>
+            This method checks if the current score is a highScore.
+            </summary>
+            <param name="points">points.</param>
+            <returns>Boolean.</returns>
+        </member>
+        <member name="M:BounceBall.Repository.StorageRepo.SaveScore(BounceBall.Data.Score)">
+            <summary>
+            This method the save the score in the data file.
+            </summary>
+            <param name="score">Score.</param>
+        </member>
+        <member name="M:BounceBall.Repository.StorageRepo.ScoreBoard">
+            <summary>
+            This method returns the list of Scores in the data file.
+            </summary>
+            <returns>List of Score.</returns>
+        </member>
+    </members>
+</doc>
