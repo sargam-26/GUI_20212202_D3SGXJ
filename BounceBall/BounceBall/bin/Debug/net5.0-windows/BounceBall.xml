@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BounceBall</name>
+    </assembly>
+    <members>
+        <member name="T:BounceBall.App">
+            <summary>
+            Interaction logic for App.xaml.
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:BounceBall.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:BounceBall.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:BounceBall.BallControl">
+            <summary>
+            This class inherits from FrameworkElement and control the funcationly of the game.
+            </summary>
+        </member>
+        <member name="M:BounceBall.BallControl.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:BounceBall.BallControl"/> class.
+            </summary>
+        </member>
+        <member name="M:BounceBall.BallControl.OnRender(System.Windows.Media.DrawingContext)">
+            <summary>
+            This method renders the objects and images on the screen.
+            </summary>
+            <param name="drawingContext">DrawingContext.</param>
+        </member>
+        <member name="T:BounceBall.MainMenuWindow">
+            <summary>
+            Interaction logic for MainMenuWindow.xaml.
+            </summary>
+            <summary>
+            MainMenuWindow
+            </summary>
+        </member>
+        <member name="M:BounceBall.MainMenuWindow.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:BounceBall.MainMenuWindow"/> class.
+            </summary>
+        </member>
+        <member name="M:BounceBall.MainMenuWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:BounceBall.MainWindow">
+            <summary>
+            Interaction logic for MainWindow.xaml.
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:BounceBall.MainWindow.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:BounceBall.MainWindow"/> class.
+            </summary>
+        </member>
+        <member name="M:BounceBall.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:BounceBall.ScoreBoard">
+            <summary>
+            Interaction logic for ScoreBoard.xaml.
+            </summary>
+            <summary>
+            ScoreBoard
+            </summary>
+        </member>
+        <member name="M:BounceBall.ScoreBoard.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:BounceBall.ScoreBoard"/> class.
+            </summary>
+        </member>
+        <member name="M:BounceBall.ScoreBoard.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:BounceBall.ScoreDialog">
+            <summary>
+            Interaction logic for ScoreDialog.xaml.
+            </summary>
+            <summary>
+            ScoreDialog
+            </summary>
+        </member>
+        <member name="M:BounceBall.ScoreDialog.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:BounceBall.ScoreDialog"/> class.
+            </summary>
+        </member>
+        <member name="P:BounceBall.ScoreDialog.NameText">
+            <summary>
+            Gets or sets NameTextBox Test.
+            </summary>
+        </member>
+        <member name="M:BounceBall.ScoreDialog.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+    </members>
+</doc>

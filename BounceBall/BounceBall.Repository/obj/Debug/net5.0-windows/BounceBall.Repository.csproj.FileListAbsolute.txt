@@ -34,3 +34,21 @@ G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repository\obj\De
 G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repository\obj\Debug\net5.0-windows\BounceBall.Repository.dll
 G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repository\obj\Debug\net5.0-windows\ref\BounceBall.Repository.dll
 G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repository\obj\Debug\net5.0-windows\BounceBall.Repository.pdb
+E:\semester 4\GameProject\BounceBall\BounceBall.Repository\bin\Debug\net5.0-windows\scores.xml
+E:\semester 4\GameProject\BounceBall\BounceBall.Repository\bin\Debug\net5.0-windows\BounceBall.Repository.deps.json
+E:\semester 4\GameProject\BounceBall\BounceBall.Repository\bin\Debug\net5.0-windows\BounceBall.Repository.dll
+E:\semester 4\GameProject\BounceBall\BounceBall.Repository\bin\Debug\net5.0-windows\ref\BounceBall.Repository.dll
+E:\semester 4\GameProject\BounceBall\BounceBall.Repository\bin\Debug\net5.0-windows\BounceBall.Repository.pdb
+E:\semester 4\GameProject\BounceBall\BounceBall.Repository\bin\Debug\net5.0-windows\BounceBall.Repository.xml
+E:\semester 4\GameProject\BounceBall\BounceBall.Repository\bin\Debug\net5.0-windows\BounceBall.Data.dll
+E:\semester 4\GameProject\BounceBall\BounceBall.Repository\bin\Debug\net5.0-windows\BounceBall.Data.pdb
+E:\semester 4\GameProject\BounceBall\BounceBall.Repository\bin\Debug\net5.0-windows\BounceBall.Data.xml
+E:\semester 4\GameProject\BounceBall\BounceBall.Repository\obj\Debug\net5.0-windows\BounceBall.Repository.csproj.AssemblyReference.cache
+E:\semester 4\GameProject\BounceBall\BounceBall.Repository\obj\Debug\net5.0-windows\BounceBall.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\semester 4\GameProject\BounceBall\BounceBall.Repository\obj\Debug\net5.0-windows\BounceBall.Repository.AssemblyInfoInputs.cache
+E:\semester 4\GameProject\BounceBall\BounceBall.Repository\obj\Debug\net5.0-windows\BounceBall.Repository.AssemblyInfo.cs
+E:\semester 4\GameProject\BounceBall\BounceBall.Repository\obj\Debug\net5.0-windows\BounceBall.Repository.csproj.CoreCompileInputs.cache
+E:\semester 4\GameProject\BounceBall\BounceBall.Repository\obj\Debug\net5.0-windows\BounceBall.Repository.csproj.CopyComplete
+E:\semester 4\GameProject\BounceBall\BounceBall.Repository\obj\Debug\net5.0-windows\BounceBall.Repository.dll
+E:\semester 4\GameProject\BounceBall\BounceBall.Repository\obj\Debug\net5.0-windows\ref\BounceBall.Repository.dll
+E:\semester 4\GameProject\BounceBall\BounceBall.Repository\obj\Debug\net5.0-windows\BounceBall.Repository.pdb

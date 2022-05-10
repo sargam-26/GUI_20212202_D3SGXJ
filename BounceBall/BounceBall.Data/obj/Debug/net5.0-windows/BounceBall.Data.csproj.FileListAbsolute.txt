@@ -23,3 +23,16 @@ G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Data\obj\Debug\ne
 G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Data\obj\Debug\net5.0-windows\BounceBall.Data.dll
 G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Data\obj\Debug\net5.0-windows\ref\BounceBall.Data.dll
 G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Data\obj\Debug\net5.0-windows\BounceBall.Data.pdb
+E:\semester 4\GameProject\BounceBall\BounceBall.Data\bin\Debug\net5.0-windows\BounceBall.Data.deps.json
+E:\semester 4\GameProject\BounceBall\BounceBall.Data\bin\Debug\net5.0-windows\BounceBall.Data.dll
+E:\semester 4\GameProject\BounceBall\BounceBall.Data\bin\Debug\net5.0-windows\ref\BounceBall.Data.dll
+E:\semester 4\GameProject\BounceBall\BounceBall.Data\bin\Debug\net5.0-windows\BounceBall.Data.pdb
+E:\semester 4\GameProject\BounceBall\BounceBall.Data\bin\Debug\net5.0-windows\BounceBall.Data.xml
+E:\semester 4\GameProject\BounceBall\BounceBall.Data\obj\Debug\net5.0-windows\BounceBall.Data.csproj.AssemblyReference.cache
+E:\semester 4\GameProject\BounceBall\BounceBall.Data\obj\Debug\net5.0-windows\BounceBall.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\semester 4\GameProject\BounceBall\BounceBall.Data\obj\Debug\net5.0-windows\BounceBall.Data.AssemblyInfoInputs.cache
+E:\semester 4\GameProject\BounceBall\BounceBall.Data\obj\Debug\net5.0-windows\BounceBall.Data.AssemblyInfo.cs
+E:\semester 4\GameProject\BounceBall\BounceBall.Data\obj\Debug\net5.0-windows\BounceBall.Data.csproj.CoreCompileInputs.cache
+E:\semester 4\GameProject\BounceBall\BounceBall.Data\obj\Debug\net5.0-windows\BounceBall.Data.dll
+E:\semester 4\GameProject\BounceBall\BounceBall.Data\obj\Debug\net5.0-windows\ref\BounceBall.Data.dll
+E:\semester 4\GameProject\BounceBall\BounceBall.Data\obj\Debug\net5.0-windows\BounceBall.Data.pdb

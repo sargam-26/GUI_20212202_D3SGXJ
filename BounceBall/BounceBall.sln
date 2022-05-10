@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.1.32421.90
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BounceBall", "BounceBall\BounceBall.csproj", "{39462892-08B5-4CEC-84DD-43AEC83F77A5}"
+EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BounceBall.Data", "BounceBall.Data\BounceBall.Data.csproj", "{073C8C77-49FB-4017-B6F2-8C40D8E0CD74}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BounceBall.Renderer", "BounceBall.Repo\BounceBall.Renderer.csproj", "{4796299D-4D33-4F05-B45B-58DE2686414E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BounceBall.Logic", "BounceBall.Logic\BounceBall.Logic.csproj", "{9EDBF483-0CD0-47E7-AA5B-C3194EFC06BC}"
 EndProject
@@ -15,10 +19,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39462892-08B5-4CEC-84DD-43AEC83F77A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39462892-08B5-4CEC-84DD-43AEC83F77A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39462892-08B5-4CEC-84DD-43AEC83F77A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39462892-08B5-4CEC-84DD-43AEC83F77A5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{073C8C77-49FB-4017-B6F2-8C40D8E0CD74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{073C8C77-49FB-4017-B6F2-8C40D8E0CD74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{073C8C77-49FB-4017-B6F2-8C40D8E0CD74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{073C8C77-49FB-4017-B6F2-8C40D8E0CD74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4796299D-4D33-4F05-B45B-58DE2686414E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4796299D-4D33-4F05-B45B-58DE2686414E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4796299D-4D33-4F05-B45B-58DE2686414E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4796299D-4D33-4F05-B45B-58DE2686414E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9EDBF483-0CD0-47E7-AA5B-C3194EFC06BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9EDBF483-0CD0-47E7-AA5B-C3194EFC06BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EDBF483-0CD0-47E7-AA5B-C3194EFC06BC}.Release|Any CPU.ActiveCfg = Release|Any CPU

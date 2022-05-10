@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BounceBall.Renderer</name>
+    </assembly>
+    <members>
+        <member name="T:BounceBall.Renderer.BallRenderer">
+            <summary>
+            This class renders the images and implements IGameRenderer.
+            </summary>
+        </member>
+        <member name="M:BounceBall.Renderer.BallRenderer.#ctor(BounceBall.Data.BallModel)">
+            <summary>
+            Initializes a new instance of the <see cref="T:BounceBall.Renderer.BallRenderer"/> class.
+            </summary>
+            <param name="model">BallModel.</param>
+        </member>
+        <member name="M:BounceBall.Renderer.BallRenderer.BuildDrawing">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Renderer.BallRenderer.GetBackground">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Renderer.BallRenderer.GetBrush(System.String,System.Boolean)">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Renderer.BallRenderer.GetCheckpoint">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Renderer.BallRenderer.GetExit">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Renderer.BallRenderer.GetPlayer">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Renderer.BallRenderer.GetWalls">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Renderer.BallRenderer.GetSpiders">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Renderer.BallRenderer.GetRedBar">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Renderer.BallRenderer.GetRing">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Renderer.BallRenderer.GetScore">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Renderer.BallRenderer.GetLives">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Renderer.BallRenderer.GetLifes">
+            <inheritdoc/>
+        </member>
+        <member name="M:BounceBall.Renderer.BallRenderer.Reset">
+            <inheritdoc/>
+        </member>
+        <member name="T:BounceBall.Renderer.IGameRenderer">
+            <summary>
+            This interface have the functions which will help the game to renderer.
+            </summary>
+        </member>
+        <member name="M:BounceBall.Renderer.IGameRenderer.Reset">
+            <summary>
+            this method reset the screen.
+            </summary>
+        </member>
+        <member name="M:BounceBall.Renderer.IGameRenderer.GetBrush(System.String,System.Boolean)">
+            <summary>
+            This method get brush from the images.
+            </summary>
+            <param name="fname">File name.</param>
+            <param name="isTilled">Bool.</param>
+            <returns>Brush.</returns>
+        </member>
+        <member name="M:BounceBall.Renderer.IGameRenderer.BuildDrawing">
+            <summary>
+            This method build the drawings upon rendering.
+            </summary>
+            <returns>Drawing.</returns>
+        </member>
+        <member name="M:BounceBall.Renderer.IGameRenderer.GetExit">
+            <summary>
+            This method draw the Exit upon rendering.
+            </summary>
+            <returns>Drawing.</returns>
+        </member>
+        <member name="M:BounceBall.Renderer.IGameRenderer.GetRing">
+            <summary>
+            This method draw the Rings upon rendering.
+            </summary>
+            <returns>Drawing.</returns>
+        </member>
+        <member name="M:BounceBall.Renderer.IGameRenderer.GetRedBar">
+            <summary>
+            This method draw the Red Bar upon rendering.
+            </summary>
+            <returns>Drawing.</returns>
+        </member>
+        <member name="M:BounceBall.Renderer.IGameRenderer.GetCheckpoint">
+            <summary>
+            This method draw the checkpoint upon rendering.
+            </summary>
+            <returns>Drawing.</returns>
+        </member>
+        <member name="M:BounceBall.Renderer.IGameRenderer.GetPlayer">
+            <summary>
+            This method draw the Player upon rendering.
+            </summary>
+            <returns>Drawing.</returns>
+        </member>
+        <member name="M:BounceBall.Renderer.IGameRenderer.GetWalls">
+            <summary>
+            This method draw the walls upon rendering.
+            </summary>
+            <returns>Drawing.</returns>
+        </member>
+        <member name="M:BounceBall.Renderer.IGameRenderer.GetBackground">
+            <summary>
+            This method draw the background upon rendering.
+            </summary>
+            <returns>Drawing.</returns>
+        </member>
+        <member name="M:BounceBall.Renderer.IGameRenderer.GetSpiders">
+            <summary>
+            This method draw the spider upon rendering.
+            </summary>
+            <returns>Drawing.</returns>
+        </member>
+        <member name="M:BounceBall.Renderer.IGameRenderer.GetLives">
+            <summary>
+            This method draw the lives remaing to screen.
+            </summary>
+            <returns>Drawing.</returns>
+        </member>
+        <member name="M:BounceBall.Renderer.IGameRenderer.GetScore">
+            <summary>
+            This method draw the Score to the screen.
+            </summary>
+            <returns>Drawing.</returns>
+        </member>
+        <member name="M:BounceBall.Renderer.IGameRenderer.GetLifes">
+            <summary>
+            This method draw the life icon to console.
+            </summary>
+            <returns>Drawing.</returns>
+        </member>
+    </members>
+</doc>

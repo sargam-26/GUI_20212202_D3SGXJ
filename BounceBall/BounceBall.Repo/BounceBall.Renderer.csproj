@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <EnableNETAnalyzers>true</EnableNETAnalyzers>
+    <AnalysisMode>AllEnabledByDefault</AnalysisMode>
+    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>BallRenderer.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\ball.bmp" />
+    <None Remove="Images\bar.png" />
+    <None Remove="Images\checkpoint.png" />
+    <None Remove="Images\exit.png" />
+    <None Remove="Images\live.png" />
+    <None Remove="Images\ring.bmp" />
+    <None Remove="Images\spider.png" />
+    <None Remove="Images\wall.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Images\ball.bmp" />
+    <EmbeddedResource Include="Images\bar.png" />
+    <EmbeddedResource Include="Images\checkpoint.png" />
+    <EmbeddedResource Include="Images\exit.png" />
+    <EmbeddedResource Include="Images\live.png" />
+    <EmbeddedResource Include="Images\ring.bmp" />
+    <EmbeddedResource Include="Images\spider.png" />
+    <EmbeddedResource Include="Images\wall.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.WindowsDesktop.App" />
+    <PackageReference Include="StyleCop.Analyzers" Version="1.1.118">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BounceBall.Data\BounceBall.Data.csproj" />
+  </ItemGroup>
+
+</Project>

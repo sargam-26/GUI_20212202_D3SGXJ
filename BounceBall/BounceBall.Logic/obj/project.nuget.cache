@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JzIeFlkmcQa8cDXBU18dGgTumPvCriR3vQTDtFedI4lu/6ybu0qhlvz+e8Rr4ys3DdyocyL/ig+5uZFRmnzKUQ==",
+  "dgSpecHash": "6ZBbyp1ufvoAdXR7yOSMCvTKluok9c4HrNvYF4UhI4jhQQY3fdWa4eT1BNyvBn/gdo8O0XBR+CPyxSuO5TkOdw==",
   "success": true,
-  "projectFilePath": "F:\\BounceBall\\BounceBall\\BounceBall.Logic\\BounceBall.Logic.csproj",
+  "projectFilePath": "E:\\semester 4\\GameProject\\BounceBall\\BounceBall.Logic\\BounceBall.Logic.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Sargam\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+    "C:\\Users\\Mera Maher Kamal\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],
   "logs": []
 }

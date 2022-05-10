@@ -40,3 +40,24 @@ G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Logic\bin\Debug\n
 G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Logic\bin\Debug\net5.0-windows\BounceBall.Repository.pdb
 G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Logic\bin\Debug\net5.0-windows\BounceBall.Repository.xml
 G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Logic\obj\Debug\net5.0-windows\BounceBall.Logic.csproj.CopyComplete
+E:\semester 4\GameProject\BounceBall\BounceBall.Logic\bin\Debug\net5.0-windows\scores.xml
+E:\semester 4\GameProject\BounceBall\BounceBall.Logic\bin\Debug\net5.0-windows\BounceBall.Logic.deps.json
+E:\semester 4\GameProject\BounceBall\BounceBall.Logic\bin\Debug\net5.0-windows\BounceBall.Logic.dll
+E:\semester 4\GameProject\BounceBall\BounceBall.Logic\bin\Debug\net5.0-windows\ref\BounceBall.Logic.dll
+E:\semester 4\GameProject\BounceBall\BounceBall.Logic\bin\Debug\net5.0-windows\BounceBall.Logic.pdb
+E:\semester 4\GameProject\BounceBall\BounceBall.Logic\bin\Debug\net5.0-windows\BounceBall.Logic.xml
+E:\semester 4\GameProject\BounceBall\BounceBall.Logic\bin\Debug\net5.0-windows\BounceBall.Data.dll
+E:\semester 4\GameProject\BounceBall\BounceBall.Logic\bin\Debug\net5.0-windows\BounceBall.Repository.dll
+E:\semester 4\GameProject\BounceBall\BounceBall.Logic\bin\Debug\net5.0-windows\BounceBall.Data.pdb
+E:\semester 4\GameProject\BounceBall\BounceBall.Logic\bin\Debug\net5.0-windows\BounceBall.Data.xml
+E:\semester 4\GameProject\BounceBall\BounceBall.Logic\bin\Debug\net5.0-windows\BounceBall.Repository.pdb
+E:\semester 4\GameProject\BounceBall\BounceBall.Logic\bin\Debug\net5.0-windows\BounceBall.Repository.xml
+E:\semester 4\GameProject\BounceBall\BounceBall.Logic\obj\Debug\net5.0-windows\BounceBall.Logic.csproj.AssemblyReference.cache
+E:\semester 4\GameProject\BounceBall\BounceBall.Logic\obj\Debug\net5.0-windows\BounceBall.Logic.GeneratedMSBuildEditorConfig.editorconfig
+E:\semester 4\GameProject\BounceBall\BounceBall.Logic\obj\Debug\net5.0-windows\BounceBall.Logic.AssemblyInfoInputs.cache
+E:\semester 4\GameProject\BounceBall\BounceBall.Logic\obj\Debug\net5.0-windows\BounceBall.Logic.AssemblyInfo.cs
+E:\semester 4\GameProject\BounceBall\BounceBall.Logic\obj\Debug\net5.0-windows\BounceBall.Logic.csproj.CoreCompileInputs.cache
+E:\semester 4\GameProject\BounceBall\BounceBall.Logic\obj\Debug\net5.0-windows\BounceBall.Logic.csproj.CopyComplete
+E:\semester 4\GameProject\BounceBall\BounceBall.Logic\obj\Debug\net5.0-windows\BounceBall.Logic.dll
+E:\semester 4\GameProject\BounceBall\BounceBall.Logic\obj\Debug\net5.0-windows\ref\BounceBall.Logic.dll
+E:\semester 4\GameProject\BounceBall\BounceBall.Logic\obj\Debug\net5.0-windows\BounceBall.Logic.pdb

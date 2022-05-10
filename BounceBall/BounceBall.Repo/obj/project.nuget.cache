@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CLBnX8YbAQhRjqXWS8LL49gf3MDKlmYhXGX/+wjierQ5zjpx2Zk1dH03TyvyciGY8O4sA7ExvGRvpQ4S3AOZNg==",
+  "success": true,
+  "projectFilePath": "E:\\semester 4\\GameProject\\BounceBall\\BounceBall.Repo\\BounceBall.Renderer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mera Maher Kamal\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,51 @@
+C:\Users\Vishav\Documents\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\BounceBall.Renderer.deps.json
+C:\Users\Vishav\Documents\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\BounceBall.Renderer.dll
+C:\Users\Vishav\Documents\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\ref\BounceBall.Renderer.dll
+C:\Users\Vishav\Documents\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\BounceBall.Renderer.pdb
+C:\Users\Vishav\Documents\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\BallRenderer.xml
+C:\Users\Vishav\Documents\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\BounceBall.Data.dll
+C:\Users\Vishav\Documents\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\BounceBall.Data.pdb
+C:\Users\Vishav\Documents\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\BounceBall.Data.xml
+C:\Users\Vishav\Documents\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.csprojAssemblyReference.cache
+C:\Users\Vishav\Documents\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishav\Documents\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.AssemblyInfoInputs.cache
+C:\Users\Vishav\Documents\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.AssemblyInfo.cs
+C:\Users\Vishav\Documents\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.csproj.CoreCompileInputs.cache
+C:\Users\Vishav\Documents\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.csproj.CopyComplete
+C:\Users\Vishav\Documents\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.dll
+C:\Users\Vishav\Documents\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\ref\BounceBall.Renderer.dll
+C:\Users\Vishav\Documents\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.pdb
+G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\BounceBall.Renderer.deps.json
+G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\BounceBall.Renderer.dll
+G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\ref\BounceBall.Renderer.dll
+G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\BounceBall.Renderer.pdb
+G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\BallRenderer.xml
+G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\BounceBall.Data.dll
+G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\BounceBall.Data.pdb
+G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\BounceBall.Data.xml
+G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.csproj.AssemblyReference.cache
+G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.GeneratedMSBuildEditorConfig.editorconfig
+G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.AssemblyInfoInputs.cache
+G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.AssemblyInfo.cs
+G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.csproj.CoreCompileInputs.cache
+G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.csproj.CopyComplete
+G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.dll
+G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\ref\BounceBall.Renderer.dll
+G:\data\oenik_prog4_2021_1_cu5j9o_hbudug\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.pdb
+E:\semester 4\GameProject\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\BounceBall.Renderer.deps.json
+E:\semester 4\GameProject\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\BounceBall.Renderer.dll
+E:\semester 4\GameProject\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\ref\BounceBall.Renderer.dll
+E:\semester 4\GameProject\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\BounceBall.Renderer.pdb
+E:\semester 4\GameProject\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\BallRenderer.xml
+E:\semester 4\GameProject\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\BounceBall.Data.dll
+E:\semester 4\GameProject\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\BounceBall.Data.pdb
+E:\semester 4\GameProject\BounceBall\BounceBall.Repo\bin\Debug\net5.0-windows\BounceBall.Data.xml
+E:\semester 4\GameProject\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.csproj.AssemblyReference.cache
+E:\semester 4\GameProject\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.GeneratedMSBuildEditorConfig.editorconfig
+E:\semester 4\GameProject\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.AssemblyInfoInputs.cache
+E:\semester 4\GameProject\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.AssemblyInfo.cs
+E:\semester 4\GameProject\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.csproj.CoreCompileInputs.cache
+E:\semester 4\GameProject\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.csproj.CopyComplete
+E:\semester 4\GameProject\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.dll
+E:\semester 4\GameProject\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\ref\BounceBall.Renderer.dll
+E:\semester 4\GameProject\BounceBall\BounceBall.Repo\obj\Debug\net5.0-windows\BounceBall.Renderer.pdb

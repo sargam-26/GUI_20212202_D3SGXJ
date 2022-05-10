@@ -1,0 +1,87 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BounceBall/1.0.0": {
+        "dependencies": {
+          "BounceBall.Data": "1.0.0",
+          "BounceBall.Logic": "1.0.0",
+          "BounceBall.Renderer": "1.0.0",
+          "StyleCop.Analyzers": "1.1.118"
+        },
+        "runtime": {
+          "BounceBall.dll": {}
+        }
+      },
+      "StyleCop.Analyzers/1.1.118": {},
+      "BounceBall.Data/1.0.0": {
+        "runtime": {
+          "BounceBall.Data.dll": {}
+        }
+      },
+      "BounceBall.Logic/1.0.0": {
+        "dependencies": {
+          "BounceBall.Data": "1.0.0",
+          "BounceBall.Repository": "1.0.0"
+        },
+        "runtime": {
+          "BounceBall.Logic.dll": {}
+        }
+      },
+      "BounceBall.Renderer/1.0.0": {
+        "dependencies": {
+          "BounceBall.Data": "1.0.0"
+        },
+        "runtime": {
+          "BounceBall.Renderer.dll": {}
+        }
+      },
+      "BounceBall.Repository/1.0.0": {
+        "dependencies": {
+          "BounceBall.Data": "1.0.0"
+        },
+        "runtime": {
+          "BounceBall.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BounceBall/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StyleCop.Analyzers/1.1.118": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Onx6ovGSqXSK07n/0eM3ZusiNdB6cIlJdabQhWGgJp3Vooy9AaLS/tigeybOJAobqbtggTamoWndz72JscZBvw==",
+      "path": "stylecop.analyzers/1.1.118",
+      "hashPath": "stylecop.analyzers.1.1.118.nupkg.sha512"
+    },
+    "BounceBall.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BounceBall.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BounceBall.Renderer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BounceBall.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
